@@ -131,7 +131,7 @@ else{
             break;
         }
     }
-    console.log("Su compra");
+    console.log("Gracias por su compra");
     
 
 }
